@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Zakat</string>
+    <string name="copyright">Copyright © Hidayah Ezza 2022</string>
+    <string name="about">This is the simple mobile application for estimating zakat payment for gold keeping and wearing.</string>
+
+    <string name="develop">Developer</string>
+    <string name="dayah1">Name: Hidayah Binti Hushairi</string>
+    <string name="dayah2">Student ID: 2021119605</string>
+    <string name="dayah3">Group: 5B</string>
+    <string name="dayah4">Programme Code: CS240</string>
+
+    <string name="ezza1">Name: Ezza Liyana Binti Jalaludin</string>
+    <string name="ezza2">Student ID: 2021178639</string>
+    <string name="ezza3">Group: 5A</string>
+    <string name="ezza4">Programme Code: CS240</string>
+
+    <string name="descWPage">This page estimate zakat payment for gold wearing category.
+        Below here are the additional information: </string>
+    <string name="infoWear">1. Uruf (normal rate of wear gold jewelry) - 200 gram 2. Percentage of Zakat Payable - 25% </string>
+
+    <string name="descKPage">This page estimate zakat payment for gold keeping category.
+        Below here are the additional information:</string>
+
+    <string name="infoKeep">1. Uruf (normal rate of keep gold jewelry) - 85 gram 2. Percentage of Zakat Payable - 25%</string>
+</resources>
